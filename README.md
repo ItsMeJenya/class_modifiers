@@ -5,12 +5,12 @@ different use-cases/extending/implementing/initializing
 different types of class in Dart language`
 ```
 ## Classes:
-> abstract
-> interface
-> abstract interface
-> base
-> final
-> sealed
+* abstract
+* interface
+* abstract interface
+* base
+* final
+* sealed
 ___________________________________________________________________________
 ## Check-points for each class:
 
