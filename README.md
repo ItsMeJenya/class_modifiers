@@ -1,16 +1,30 @@
-# class_modifiers
+### Investigate all cases for class modifiers
+```
+This project helps to investigate, test 
+different use-cases/extending/implementing/initializing 
+different types of class in Dart language`
+```
 
-Investigate all cases for class modifiers
+## Classes:
+> abstract
+> interface
+> abstract interface
+> base
+> final
+> sealed
 
-## Getting Started
+___________________________________________________________________________
+### Check-points for each class:
 
-This project is a starting point for a Flutter application.
+## parent class:
+- empty class
+- class with abstract parameters
 
-A few resources to get you started if this is your first Flutter project:
+## library:
+- check within file
+- check in separate file
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## child-classes:
+- create object of class
+- extend class
+- implement class
