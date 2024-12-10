@@ -12,7 +12,7 @@ different types of class in Dart language`
 * final
 * sealed
 ___________________________________________________________________________
-## Check-points for each class:
+## Check-points for each type of class:
 
 ### parent class:
 - empty class
