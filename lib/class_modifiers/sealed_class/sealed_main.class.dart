@@ -36,7 +36,7 @@ class SameFileClass4 implements VehicleWithAbstractFields {
 
   @override
   double provideSomeSpeed(newValue) {
-    this.speed = newValue;
+    speed = newValue;
     return speed.toDouble();
   }
 }

@@ -29,7 +29,7 @@ base class SameFileClass2 implements MyFinalClassEmpty {}
 base class SameFileClass3 extends MyFinalSetFields {
   @override
   double getDouble(newValue) {
-    this.myValue = newValue;
+    myValue = newValue;
     return myValue.toDouble();
   }
 }
