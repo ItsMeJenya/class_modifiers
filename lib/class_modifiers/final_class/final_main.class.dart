@@ -39,7 +39,7 @@ base class SameFileClass4 implements MyFinalSetFields {
 
   @override
   double getDouble(newValue) {
-   this.myValue = newValue;
+   myValue = newValue;
    return myValue.toDouble();
   }
 
