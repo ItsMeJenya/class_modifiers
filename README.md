@@ -1,10 +1,9 @@
-### Investigate all cases for class modifiers
+# Investigate all cases for class modifiers
 ```
 This project helps to investigate, test 
 different use-cases/extending/implementing/initializing 
 different types of class in Dart language`
 ```
-
 ## Classes:
 > abstract
 > interface
@@ -12,19 +11,18 @@ different types of class in Dart language`
 > base
 > final
 > sealed
-
 ___________________________________________________________________________
-### Check-points for each class:
+## Check-points for each class:
 
-## parent class:
+### parent class:
 - empty class
 - class with abstract parameters
 
-## library:
+### library:
 - check within file
 - check in separate file
 
-## child-classes:
+### child-classes:
 - create object of class
 - extend class
 - implement class
